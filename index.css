@@ -43,8 +43,19 @@
 .flex-box-2{
     display: inline;
 }
+.flex-box-1{
+    text-align: right;
+    margin-top: 0px;
+    margin-right: 150px;
+    background-color: white;
+    color: black;
+
+}
 #sign{
     margin-left: 1180px;
+    margin-top: 1px;
+    border-top: 1px;
+    text-align: right;
     background-color: rgb(46, 139, 226);
     border: none;
     padding-top: 5px;
